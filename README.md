@@ -15,6 +15,6 @@ This was pretty fun, I had no idea pdfs could do cursed things like this.
 
 
 Mozilla's explanation for adding form filling support - https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/
-
+Horrifying pdf experiments - https://github.com/osnr/horrifying-pdf-experiments?tab=readme-ov-file
 
 
