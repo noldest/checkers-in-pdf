@@ -9,12 +9,15 @@ This only works because Firefox and Chromium's pdf readers support a bit Javascr
 
 To render the board and pieces Rinsma's PDF tetris taught me to abuse the form filling functionality in PDF.js (Firefox PDF reader) and PDFium (Chromium PDF reader). I can create buttons for the grids and pieces from the PDF's Javascript code, fields to print information, and alerts to have a little pop up when the game ends. 
 
-This was pretty fun, I had no idea pdfs could do cursed things like this.
+This was pretty fun, I had no idea pdfs could be abused like this. Very epic.
 
-### Further information:
+### Further information to read (if you want to):
 
-
+Adobe Acrobat's entire Javascript API thing - https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html#
 Mozilla's explanation for adding form filling support - https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/
 Horrifying pdf experiments - https://github.com/osnr/horrifying-pdf-experiments?tab=readme-ov-file
+Doom in pdf (ThomasRinsma) - https://github.com/ThomasRinsma/pdfdoom
+Another Doom in pdf (ading2210) - https://github.com/ading2210/doompdf
+
 
 
