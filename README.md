@@ -11,7 +11,10 @@ To render the board and pieces Rinsma's PDF tetris taught me to abuse the form f
 
 This was pretty fun, I had no idea pdfs could do cursed things like this.
 
-Further information:
-Mozilla's explanation for adding form filling support: https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/
+### Further information:
+
+
+Mozilla's explanation for adding form filling support - https://hacks.mozilla.org/2021/10/implementing-form-filling-and-accessibility-in-the-firefox-pdf-viewer/
+
 
 
