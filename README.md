@@ -11,6 +11,8 @@ This is a game of checkers contained within a pdf file. Works in Firefox and chr
 
 - Download the Chromium version (Chromium buttons are weird so all I did was add an arrow controller): https://github.com/noldest/checkers-in-pdf/blob/main/checkers(chromium).pdf
 
+##
+
 A lot of the concepts here (and the basic structure) are taken from Thomas Rinsma's PDF tetris: https://github.com/ThomasRinsma/pdftris
 
 This only works because Firefox and Chromium's pdf readers support a bit Javascript for me to write the checkers logic. Again, check out Rinsma's explanation to learn more. 
