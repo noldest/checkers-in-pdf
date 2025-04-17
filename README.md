@@ -4,7 +4,7 @@ This is a game of checkers contained within a pdf file. Works in Firefox and chr
 <img width="310" alt="Screenshot 2025-04-17 at 8 28 10 AM" src="https://github.com/user-attachments/assets/81b6594f-abbe-456d-8ba2-be3bf6a4882a" />
 
 
-## Downloads (go in the link look on the right and download raw)
+## Downloads (go in the links and look for download raw on the right)
 
 
 - Download the Firefox version: https://github.com/noldest/checkers-in-pdf/blob/main/checkers(firefox).pdf
